@@ -1,12 +1,12 @@
 {
   "lang":"en",
-  "name":"rpa_simple",
+  "name":"rpa_simple_reminder",
   "version":"0.0.1",
   "spacy_version":">=2.3.2",
-  "description":"Simple model for RPA Tomorrow",
+  "description":"Simple model for RPA Tomorrow reminder module",
   "author":"rpa-tomorrow",
   "email":"",
-  "url":"https://github.com/rpa-tomorrow/model-releases",
+  "url":"https://github.com/rpa-tomorrow",
   "license":"MIT",
   "spacy_git_version":"bf778f59c",
   "vectors":{
@@ -28,7 +28,6 @@
       "NOUN",
       "ROOT",
       "TO",
-      "VERB",
       "WHEN",
       "dep"
     ]
