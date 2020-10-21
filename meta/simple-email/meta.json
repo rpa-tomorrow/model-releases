@@ -1,0 +1,35 @@
+{
+  "lang":"en",
+  "name":"rpa_simple_email",
+  "version":"0.0.1",
+  "spacy_version":">=2.3.2",
+  "description":"Simple model for RPA Tomorrow email module",
+  "author":"rpa-tomorrow",
+  "email":"",
+  "url":"https://github.com/rpa-tomorrow",
+  "license":"MIT",
+  "spacy_git_version":"bf778f59c",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":"spacy_pretrained_vectors"
+  },
+  "pipeline":[
+    "parser"
+  ],
+  "factories":{
+    "parser":"parser"
+  },
+  "labels":{
+    "parser":[
+      "",
+      "BODY",
+      "NOUN",
+      "ROOT",
+      "TO",
+      "WHEN",
+      "dep"
+    ]
+  }
+}
