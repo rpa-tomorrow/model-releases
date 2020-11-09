@@ -1,7 +1,7 @@
 {
   "lang":"en",
-  "name":"model",
-  "version":"0.0.0",
+  "name":"rpa_simple_calendar",
+  "version":"0.0.3",
   "spacy_version":">=2.3.2",
   "description":"",
   "author":"",
